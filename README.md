@@ -27,35 +27,65 @@ Es-possible-clone is as title sugest clone of website i made in Wordpress for cl
 - Typescript
   
 ### Dependencies: 
-   "@formspree/react": "^2.4.1",
+    "@formspree/react": "^2.4.1",
+    
     "@heroicons/react": "^2.0.13",
+    
     "@react-icons/all-files": "^4.1.0",
+    
     "@types/node": "^18.14.2",
+    
     "@types/react": "^18.0.28",
+    
     "@types/react-dom": "^18.0.11",
+    
     "@types/react-helmet": "^6.1.6",
+    
     "@types/react-slick": "^0.23.10",
+    
     "gatsby": "^5.2.0",
+    
     "gatsby-plugin-image": "^3.2.0",
+    
     "gatsby-plugin-manifest": "^5.2.0",
+    
     "gatsby-plugin-offline": "^6.2.0",
+    
     "gatsby-plugin-react-helmet": "^6.2.0",
+    
     "gatsby-plugin-sharp": "^5.2.0",
+    
     "gatsby-source-filesystem": "^5.2.0",
+    
     "gatsby-source-wordpress": "^7.2.0",
+    
     "gatsby-transformer-sharp": "^5.2.0",
+    
     "html-react-parser": "^3.0.4",
+    
     "lodash": "^4.17.21",
+    
     "npm-check-updates": "^16.4.3",
+    
     "react": "^18.2.0",
+    
     "react-dom": "^18.2.0",
+    
     "react-helmet": "^6.1.0",
+    
     "react-icons": "^4.7.1",
+    
     "react-slick": "^0.29.0",
+    
     "slick-carousel": "^1.8.1",
+    
     "typeface-merriweather": "1.1.13",
+    
     "typeface-montserrat": "1.1.13",
+    
     "typescript": "^4.9.5"
+
+  
 
 ## Instalation
 Cloned repository don't require local server. All data is fetched from a test server maintained by plugin provider. If you want to test how it works you must use local server created with some server emulator like WAMP or localy. Second, **not free** option is to rent hosting server for your WordPress site from which you going to take data. It is only option for Editor to manage content and also only option if you want to host your project on Netlify. Both methods need plugins mentioned in [gatsby-source-wordpress documentation](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress/)
